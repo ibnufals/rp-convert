@@ -1,6 +1,6 @@
 import _ from 'lodash';
 
-export const toRupiah = function(amount, options = {}) {
+export const rpConvert = function(amount, options = {}) {
   const {
     symbol = 'Rp',
     formal = true,
