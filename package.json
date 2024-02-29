@@ -1,5 +1,5 @@
 {
-  "name": "to-rupiah",
+  "name": "rp-convert",
   "type": "module",
   "version": "1.0.3",
   "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhamadluthfiam/to-rupiah.git"
+    "url": "git+https://github.com/ibnufals/rp-convert.git"
   },
   "keywords": [
     "currecy",
     "K format",
     "Indonesian Currency"
   ],
-  "author": "muhamadluthfiam <mluthfiamrullah@gmail.com>",
+  "author": "ibnuatoillah <buatairdrop0@gmail.com>",
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
