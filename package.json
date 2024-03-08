@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibnufals/rp-convert.git"
+    "url": "https://github.com/ibnufals/rp-convert.git"
   },
   "keywords": [
     "currecy",
